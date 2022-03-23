@@ -1,6 +1,6 @@
 # Patikadev Algoritmalar Ödev
  Insertion sort, merge sort, binary search tree
-# Insersion Sort
+# Insertion Sort
 [22,27,16,18,6] için sort türüne göre aşamalarını yazınız.
 2,27,16,22,18,6
 2,6,16,22,18,27
@@ -44,7 +44,7 @@ Average case kapsamına girer.
 Big-O gösterimini yazınız.
 O(n(logn))
 
-# Binary Searc Tree
+# Binary Search Tree
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 Root:7
 
